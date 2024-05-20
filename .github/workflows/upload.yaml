@@ -2,6 +2,9 @@ name: Upload Website
 
 on:
   push:
+    paths:
+      - site/xconn-python/
+
     branches:
     - main
 
