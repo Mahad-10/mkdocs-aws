@@ -11,6 +11,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs -h` - Print help message and exit.
 * `mkdocs --help` - Print help message and exit.
 * `mkdocs --help new` - Print help message and exit.
+* `xconn --help new` - Print help message and exit.
 
 ## Project layout
 
