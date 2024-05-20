@@ -3,7 +3,7 @@ name: Upload Website
 on:
   push:
     paths:
-      - site/xconn-python/
+      - site/xconn-python/**
 
     branches:
     - main
