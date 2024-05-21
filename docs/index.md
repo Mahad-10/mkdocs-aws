@@ -7,7 +7,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `xconn --help new` - Print help message and exit.
 * `xconn --dart new` - Print help message and exit.
 * `xconn --dart new` - Print help message and exit.
-* `xconn --dart new` - Print help message and exit.
 
 ## Project layout
 
