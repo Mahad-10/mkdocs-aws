@@ -3,6 +3,7 @@ name: Upload Website
 on:
   push:
     paths:
+      - site/xconn-dart/**
       - site/xconn-python/**
 
     branches:
