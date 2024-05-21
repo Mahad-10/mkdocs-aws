@@ -15,6 +15,9 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v1
 
+    - name: install mkdocs
+      run: sudo apt install mkdocs
+
     - name: Build Docs
       run: make build-docs
 
