@@ -16,6 +16,9 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v1
 
+#    - name: Build Docs
+#      run: make build-docs
+
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
