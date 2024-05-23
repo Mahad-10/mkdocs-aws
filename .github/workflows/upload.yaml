@@ -16,7 +16,7 @@ jobs:
       uses: actions/checkout@v1
 
     - name: install mkdocs
-      run: sudo apt install mkdocs
+      run: pip install mkdocs-material[imaging]
 
     - name: Build Docs
       run: make build-docs
