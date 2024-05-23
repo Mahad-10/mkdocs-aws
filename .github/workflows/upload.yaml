@@ -2,8 +2,8 @@ name: Upload Website
 
 on:
   push:
-    paths:
-      - docs/**
+#    paths:
+#      - docs/**
 
     branches:
     - main
